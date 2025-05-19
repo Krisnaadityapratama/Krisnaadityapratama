@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , Welcome to My Github </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 ![](https://komarev.com/ghpvc/?username=DevKrisnaX&style=flat-square&color=EA4AAA)
 <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
