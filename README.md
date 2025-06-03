@@ -1,24 +1,21 @@
 <div align="center">
 
-# 👋 Halo, Saya Krisna Aditya Pratama
+# 👋 Hai, Saya Krisna Aditya Pratama
 
 <p>
-  <em>IoT Engineer & Software Developer<br/>
-  Berbasis di Yogyakarta, Indonesia</em>
+  Seorang <strong>IoT Engineer</strong> yang passionate dalam merancang solusi teknologi terintegrasi, menggabungkan perangkat keras dan perangkat lunak untuk menciptakan inovasi yang bermanfaat.<br/>
+  Berdomisili di Yogyakarta, Indonesia.
 </p>
-
-<!-- Animated waving hand -->
-<img src="https://raw.githubusercontent.com/twitter/twemoji/main/assets/72x72/1f44b.png" alt="wave" width="36" height="36"/>
 
 ---
 
 ## 🎯 Tentang Saya
 
-Saya bekerja sebagai IoT Engineer dengan fokus pada pengembangan perangkat keras dan perangkat lunak terintegrasi untuk solusi cerdas. Saya memiliki pengalaman di bidang pemrograman dengan berbagai bahasa dan framework, serta tertarik mengembangkan proyek yang berdampak nyata.
+Saya tidak lagi menempuh pendidikan formal dan kini fokus berkarier di bidang Internet of Things (IoT). Dengan pengalaman mengembangkan berbagai sistem embedded dan aplikasi pendukung, saya terus mengasah kemampuan di bidang pemrograman dan teknologi perangkat keras.
 
-- ⚡ Minat: Pengembangan IoT, Embedded Systems, Software Development
-- 🌱 Sedang mendalami teknologi terbaru dalam IoT dan pengembangan aplikasi web berbasis Laravel
-- 📫 Jangan ragu untuk menghubungi saya!
+- ⚡ Keahlian: Pengembangan IoT, Embedded Systems, Pemrograman C++ & Python
+- 🌱 Saat ini mendalami pengembangan web menggunakan Laravel dan integrasi cloud
+- 💬 Selalu terbuka untuk berdiskusi, kolaborasi, dan tantangan baru
 
 ---
 
