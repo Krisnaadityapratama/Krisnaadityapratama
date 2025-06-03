@@ -1,15 +1,10 @@
-<!-- ==========================
-   README Template by ChatGPT
-   Fresh & Modern | 2025
-============================= -->
-
 <div align="center">
 
 # 👋 Halo, Saya Krisna Aditya Pratama
 
 <p>
-  <em>Full Stack Developer & Tech Enthusiast<br/>
-  Universitas Amikom Yogyakarta | Indonesia, Yogyakarta</em>
+  <em>IoT Engineer & Software Developer<br/>
+  Berbasis di Yogyakarta, Indonesia</em>
 </p>
 
 <!-- Animated waving hand -->
@@ -19,28 +14,26 @@
 
 ## 🎯 Tentang Saya
 
-Saya seorang developer dengan minat kuat di bidang pengembangan web full stack, software development, dan teknologi terbaru. Saya juga aktif mengerjakan proyek-proyek open source dan senang berbagi ilmu.
+Saya bekerja sebagai IoT Engineer dengan fokus pada pengembangan perangkat keras dan perangkat lunak terintegrasi untuk solusi cerdas. Saya memiliki pengalaman di bidang pemrograman dengan berbagai bahasa dan framework, serta tertarik mengembangkan proyek yang berdampak nyata.
 
-- ⚡ Passion: Coding, Game Development, Donghua Movies
-- 🌱 Sedang belajar: React.js, Node.js, DevOps
-- 📫 Hubungi saya di bagian bawah!
+- ⚡ Minat: Pengembangan IoT, Embedded Systems, Software Development
+- 🌱 Sedang mendalami teknologi terbaru dalam IoT dan pengembangan aplikasi web berbasis Laravel
+- 📫 Jangan ragu untuk menghubungi saya!
 
 ---
 
-## 🛠️ Teknologi & Tools Favorit
+## 🛠️ Bahasa Pemrograman & Tools
 
-| Bahasa Pemrograman | Framework & Library | Tools & Software |
-|--------------------|--------------------|------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| Bahasa Pemrograman                         | Framework                 | Tools & Software                                      |
+|-------------------------------------------|---------------------------|------------------------------------------------------|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 
 ---
 
 ## 🚀 Proyek Unggulan
 
-| Nama Proyek                | Deskripsi Singkat                                | Bahasa & Tools          | Link                      |
-|---------------------------|-------------------------------------------------|------------------------|---------------------------|
-| [ProjectX](https://github.com/username/projectx) | Aplikasi web full-stack untuk manajemen tugas | React, Node.js, MongoDB | [GitHub](https://github.com/username/projectx) |
-| [LibraryY](https://github.com/username/libraryy) | Library Python untuk data processing efisien   | Python                 | [GitHub](https://github.com/username/libraryy) |
+[Infus Project](https://github.com/Krisnaadityapratama/Infus_project)  
+Sistem monitoring cairan infus berbasis IoT yang memungkinkan pemantauan real-time dan notifikasi otomatis untuk meningkatkan efisiensi perawatan medis.
 
 ---
 
